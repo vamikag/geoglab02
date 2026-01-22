@@ -32,13 +32,13 @@ The differences between word usage were stronger than expected, even though all 
 
 ## CSV Downloads
 - Ice Cream Recipes:  
-  https://raw.githubusercontent.com/vamikag/geoglab02/main/assets/ice_cream_recipe.csv
+  https://github.com/vamikag/geoglab02/blob/main/ice_cream_recipe.csv
 
 - Best Ice Cream Shops:  
-  https://raw.githubusercontent.com/vamikag/geoglab02/main/assets/best_ice_cream_shops.csv
+  https://github.com/vamikag/geoglab02/blob/main/best_ice_cream_shops.csv
 
 - Ice Cream Business:  
-  https://raw.githubusercontent.com/vamikag/geoglab02/main/assets/ice_cream_business.csv
+ https://github.com/vamikag/geoglab02/blob/main/ice_cream_business.csv
 
 ## Word Clouds
 ### All Ice Cream Data
